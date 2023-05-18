@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/accueil"
+        android:id="@+id/Maison"
+        android:enabled="true"
+        android:icon="@drawable/home"/>
+    <item android:title="@string/favoris"
+        android:id="@+id/Favs"
+        android:enabled="true"
+        android:icon="@drawable/favoris_y"/>
+    <item android:title="@string/about"
+        android:id="@+id/about"
+        android:enabled="true"
+        android:icon="@drawable/about"/>
+</menu>

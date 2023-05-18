@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Fably</string>
+    <string name="slogan">Des Contes pour les petits</string>
+
+    <string name="about">À propos</string>
+    <string name="about_p">\u0009Cette Application a été réalisée dans le cadre d\'un tp pour le module Application Mobile\n\nRéalisée par:</string>
+    <string name="TA">Tilmatine Anis</string>
+    <string name="MMR">Marouf Mohamed Rachid</string>
+    <string name="Repo">Repértoire GITHUB : github.com/Nisou624/Fably</string>
+
+    <string-array name="Story_names">
+        <item>Le Corbeau et le Renard</item>
+        <item>La Cigale et la Fourmi</item>
+        <item>Le loup et l\'Agneau</item>
+        <item>Le Lion et le Rat</item>
+        <!--
+        <item>le Rat et l\'Éléphant</item>
+        <item>Le Renard et la Cigogne</item>
+        <item>Le lièvre et la Tortue</item>
+        -->
+    </string-array>
+
+    <string-array name="sliders_text">
+        <item>Laissez vos enfants plonger\nDans des histoires fantastiques</item>
+        <item>À lires avec les siens</item>
+        <item>Amusantes et éducatifs</item>
+
+    </string-array>
+
+    <string name="type">Fable</string>
+
+    <string name="author">Jean de la Fontaine</string>
+
+    <string-array name="story_1">
+        <item>Le Corbeau et le Renard</item>
+        <item>Maître Corbeau, sur un arbre perché,\nTenait en son bec un fromage.</item>
+        <item>Maître Renard, par l’odeur alléché,\nLui tint à peu près ce langage :</item>
+        <item>Hé bonjour, Monsieur du Corbeau.\nQue vous êtes joli ! que vous me semblez beau !\nSans mentir, si votre ramage\nSe rapporte à votre plumage,\nVous êtes le Phénix des hôtes de ces bois.</item>
+        <item>À ces mots, le Corbeau ne se sent pas de joie ;\nEt pour montrer sa belle voix,\nIl ouvre un large bec, laisse tomber sa proie.</item>
+        <item>Le Renard s’en saisit, et dit : Mon bon Monsieur,\nApprenez que tout flatteur\nVit aux dépens de celui qui l’écoute.\nCette leçon vaut bien un fromage, sans doute.</item>
+        <item>Le Corbeau honteux et confus\nJura, mais un peu tard, qu’on ne l’y prendrait plus.</item>
+    </string-array>
+
+    <string-array name="story_2">
+        <item>La Cigale et la Fourmi</item>
+        <item>La Cigale, ayant chanté\nTout l’Été,\nSe trouva fort dépourvue\nQuand la bise fut venue.\nPas un seul petit morceau\nDe mouche ou de vermisseau.</item>
+        <item>Elle alla crier famine\nChez la Fourmi sa voisine,\nLa priant de lui prêter\nQuelque grain pour subsister\nJusqu’à la saison nouvelle.\nJe vous paierai, lui dit-elle,\nAvant l’Août, foi d’animal,\nIntérêt et principal.</item>
+        <item>La Fourmi n’est pas prêteuse ;\nC’est là son moindre défaut.\n« Que faisiez-vous au temps chaud ?\nDit-elle à cette emprunteuse.\n– Nuit et jour à tout venant\nJe chantais, ne vous déplaise.\n– Vous chantiez ? J’en suis fort aise.\nEh bien ! dansez maintenant. »</item>
+    </string-array>
+
+    <string-array name="story_3">
+        <item>Le loup et l\'Agneau</item>
+        <item>La raison du plus fort est toujours la meilleure :\nNous l’allons montrer tout à l’heure.</item>
+        <item>Un Agneau se désaltérait\nDans le courant d’une onde pure.\nUn Loup survient à jeun qui cherchait aventure,\nEt que la faim en ces lieux attirait.</item>
+        <item>Qui te rend si hardi de troubler mon breuvage ?\nDit cet animal plein de rage :\nTu seras châtié de ta témérité.</item>
+        <item>– Sire, répond l’Agneau, que votre Majesté\nNe se mette pas en colère ;\nMais plutôt qu’elle considère\nQue je me vas désaltérant\nDans le courant,\nPlus de vingt pas au-dessous d’Elle,\nEt que par conséquent,en aucune façon,\nJe ne puis troubler sa boisson.</item>
+        <item>– Tu la troubles, reprit cette bête cruelle,\nEt je sais que de moi tu médis l’an passé.\n– Comment l’aurais-je fait si je n’étais pas né ?\nReprit l’Agneau, je tête encor ma mère.\n– Si ce n’est toi, c’est donc ton frère.\n– Je n’en ai point. – C’est donc quelqu’un des tiens :</item>
+        <item>Car vous ne m’épargnez guère,\nVous, vos bergers, et vos chiens.\nOn me l’a dit : il faut que je me venge.\nLà-dessus, au fond des forêts\nLe Loup l’emporte, et puis le mange,\nSans autre forme de procès.\n</item>
+    </string-array>
+
+    <string-array name="story_4">
+        <item>Le Lion et le Rat</item>
+        <item>Il faut, autant qu’on peut, obliger tout le monde :\nOn a souvent besoin d’un plus petit que soi.\nDe cette vérité deux Fables feront foi,\nTant la chose en preuves abonde.</item>
+        <item>Entre les pattes d’un Lion\nUn Rat sortit de terre assez à l’étourdie.</item>
+        <item>Le Roi des animaux, en cette occasion,\nMontra ce qu’il était, et lui donna la vie.\nCe bienfait ne fut pas perdu.\nQuelqu’un aurait-il jamais cru\nQu’un Lion d’un Rat eût affaire ?</item>
+        <item>Cependant il advint qu’au sortir des forêts\nCe Lion fut pris dans des rets\nDont ses rugissements ne le purent défaire.\nSire Rat accourut, et fit tant par ses dents\nQu’une maille rongée emporta tout l’ouvrage.</item>
+        <item>Patience et longueur de temps\nFont plus que force ni que rage.</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accueil">Accueil</string>
+    <string name="favoris">Favoris</string>
+    <string name="story_page">Story_page</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="type_ph">Type :</string>
+    <string name="auteur_ph">Auteur :</string>
+    <string name="fable_ph">Fable</string>
+    <string name="title_ph">Le Corbeau et le Renard</string>
+
+</resources>

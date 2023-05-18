@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <ImageView
+            android:id="@+id/page_bg"
+            android:layout_width="270dp"
+            android:scaleType="fitXY"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/story3_p6"
+            android:contentDescription="@string/story_page" />
+
+        <TextView
+            android:id="@+id/page_txt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/BG"
+            android:gravity="center"
+            android:text="– Tu la troubles, reprit cette bête cruelle,\nEt je sais que de moi tu médis l’an passé.\n– Comment l’aurais-je fait si je n’étais pas né ?\nReprit l’Agneau, je tête encor ma mère.\n– Si ce n’est toi, c’est donc ton frère.\n– Je n’en ai point. – C’est donc quelqu’un des tiens :"
+            android:textColor="@color/FC"
+            android:fontFamily="@font/charm_bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/page_bg"
+            app:layout_constraintHorizontal_bias="0.11"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

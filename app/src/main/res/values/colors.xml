@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="BG">#111f28</color>
+    <color name="FC">#e3cbd3</color>
+    <color name="BGG">#90AA86</color>
+    <color name="PSB1">#824C71</color>
+    <color name="AUBURN">#A62639</color>
+    <color name="RASBERRY">#AA4465</color>
+    <color name="bluegray">#6B9AC4</color>
+    <color name="VioletChinois">#886176</color>
+</resources>
